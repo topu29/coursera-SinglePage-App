@@ -1,1 +1,0 @@
-console.log("Hi Angular for front end development.....")
